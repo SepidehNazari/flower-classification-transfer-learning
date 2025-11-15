@@ -6,8 +6,7 @@ Files
 - `requirements.txt` → Dependencies(TensorFlow, Keras, NumPy, Matplotlib)
   
 Results
-- Accuracy: ~92% on validation set
-- Confusion Matrix and sample predictions included in notebook
+- Accuracy: ~87% on validation set
 
 Technologies
 - Python (TensorFlow/Keras)

@@ -4,13 +4,12 @@ This project uses **Transfer Learning** with a pre-trained CNN (InceptionResNetV
 Files
 - `flower_classification.ipynb` → Main Colab notebook
 - `requirements.txt` → Dependencies(TensorFlow, Keras, NumPy, Matplotlib)
-
-
+  
 Results
-Accuracy: ~92% on validation set
-Confusion Matrix and sample predictions included in notebook
+- Accuracy: ~92% on validation set
+- Confusion Matrix and sample predictions included in notebook
 
 Technologies
-Python, TensorFlow/Keras
-Transfer Learning (InceptionResNetV2)
-Google Colab
+- Python (TensorFlow/Keras)
+- Transfer Learning (InceptionResNetV2)
+- Google Colab
